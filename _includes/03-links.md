@@ -1,1 +1,1 @@
-[Github RuthFG] (https://github.com/RuthFG)
+[Github RuthFG](https://github.com/RuthFG)
